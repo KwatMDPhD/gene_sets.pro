@@ -1,3 +1,4 @@
+import itertools  # isort: skip
 import os  # isort: skip
 import re  # isort: skip
 
@@ -8,8 +9,36 @@ import plotly as pl  # isort: skip
 
 import kwat  # isort: skip
 
-pas = os.path.join("..", "input", "setting.json")
+# ========================
+from os import readlink
+from os.path import dirname, islink, join
 
-SE = kwat.json.read(pas)
 
-PAR, PAI, PAC, PAO = kwat.workflow.get_path(pas)
+def get_project_path(se):
+
+    if islink(se):
+
+        se = readlink(se)
+
+    par = dirname(dirname(se))
+
+    pai = join(par, "input", "")
+
+    pac = join(par, "code", "")
+
+    pao = join(par, "output", "")
+
+    return par, pai, pac, pao
+
+
+# ========================
+se = os.path.join("..", "input", "setting.json")
+
+PAR, PAI, PAC, PAO = get_project_path(se)
+
+SE = kwat.json.read(se)
+
+# ========================
+import plotly.io as pio
+
+pio.renderers.default = "svg"
