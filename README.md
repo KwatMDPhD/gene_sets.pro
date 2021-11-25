@@ -1,6 +1,6 @@
 # gene_set.pro
 
-Professionally curated gene sets :oden:
+Download and prepare gene sets for analyses :arrow_down: :dna:
 
 ## Howdy :wave: :cowboy_hat_face:
 
