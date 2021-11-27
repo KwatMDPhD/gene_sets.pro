@@ -1,6 +1,6 @@
 # gene_set.pro
 
-Download and prepare gene sets for analyses :arrow_down: :dna:
+Download and prepare gene sets for analyses :arrow_down: :dna: [`./output` ](./output) contains professionally curated gene sets :scientist:
 
 ## Howdy :wave: :cowboy_hat_face:
 
