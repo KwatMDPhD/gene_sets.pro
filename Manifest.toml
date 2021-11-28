@@ -73,8 +73,8 @@ deps = ["Printf"]
 uuid = "ade2ca70-3891-5945-98fb-dc099432e06a"
 
 [[DictExtension]]
-deps = ["BenchmarkTools", "JSON", "Revise"]
-git-tree-sha1 = "506401756be74cad9f8b35bd35db2bb6370dc480"
+deps = ["BenchmarkTools", "JSON", "OrderedCollections", "Revise"]
+git-tree-sha1 = "66f101f3ce1bff7742a22811228d68ad247ff68e"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/DictExtension.jl"
 uuid = "0f7716a5-5f77-4abc-9223-ccb88496a673"
@@ -98,8 +98,8 @@ uuid = "7b1f6079-737a-58dc-b8bc-7a2ca5c1b5ee"
 
 [[GMTAccess]]
 deps = ["BenchmarkTools", "Revise"]
-git-tree-sha1 = "5748809f36f7d5b7eb770fbf2157d1909b49c7b9"
-repo-rev = "master"
+git-tree-sha1 = "b17e296395629cf538967df066bc8ec330c46056"
+repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/GMTAccess.jl"
 uuid = "4908299a-382f-4474-b696-db03060d32c1"
 version = "0.1.0"
@@ -137,8 +137,8 @@ deps = ["Artifacts", "Pkg"]
 uuid = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
 
 [[LeanProject]]
-deps = ["BenchmarkTools", "Comonicon", "IJulia", "JSON", "PathExtension", "Revise", "VectorExtension"]
-git-tree-sha1 = "4a73f74c67b509c2f7ea5bfea1421b4d6d3b6af0"
+deps = ["BenchmarkTools", "Comonicon", "IJulia", "JSON", "PathExtension", "Revise", "StringExtension", "VectorExtension"]
+git-tree-sha1 = "c7ffd7429252328375eed9889deac7cf5a41be76"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/LeanProject.jl"
 uuid = "c0bda0dd-97c7-4669-9191-98531c0d3141"
@@ -217,8 +217,8 @@ uuid = "69de0a69-1ddd-5017-9359-2bf0b02dc9f0"
 version = "2.1.2"
 
 [[PathExtension]]
-deps = ["BenchmarkTools", "Revise", "VectorExtension"]
-git-tree-sha1 = "6d1a7c1d71216c8428d8c03a76f998bb95643390"
+deps = ["BenchmarkTools", "Revise", "StringExtension", "VectorExtension"]
+git-tree-sha1 = "88db5953e92e6b5d0fbc4923453db7db47f1bb2c"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/PathExtension.jl"
 uuid = "7c11ae63-6a62-451d-8387-4dfdec5677ae"
@@ -297,6 +297,14 @@ uuid = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 deps = ["LinearAlgebra", "SparseArrays"]
 uuid = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 
+[[StringExtension]]
+deps = ["BenchmarkTools", "Revise", "VectorExtension"]
+git-tree-sha1 = "b8ca3ef9faeed1143165d6d94b5d218579540468"
+repo-rev = "main"
+repo-url = "https://github.com/KwatMDPhD/StringExtension.jl"
+uuid = "e56870c1-e945-4548-a787-b524e22fcae8"
+version = "0.1.0"
+
 [[TOML]]
 deps = ["Dates"]
 uuid = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
@@ -318,7 +326,7 @@ uuid = "4ec0a83e-493e-50e2-b9ac-8f72acf5a8f5"
 
 [[VectorExtension]]
 deps = ["BenchmarkTools", "Revise"]
-git-tree-sha1 = "f2a06d89db8b660ba92a8890c0fc9a58172b7e35"
+git-tree-sha1 = "4099d2ad8469c1c638601195bfc208ca0c40d36f"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/VectorExtension.jl"
 uuid = "5dc7f3b2-d000-489c-bcc0-daa77f8356fb"
