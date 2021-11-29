@@ -98,7 +98,7 @@ uuid = "7b1f6079-737a-58dc-b8bc-7a2ca5c1b5ee"
 
 [[GMTAccess]]
 deps = ["BenchmarkTools", "Revise"]
-git-tree-sha1 = "b17e296395629cf538967df066bc8ec330c46056"
+git-tree-sha1 = "fb03338bbda3b5ace29d8599ff855d54c00f4fd7"
 repo-rev = "main"
 repo-url = "https://github.com/KwatMDPhD/GMTAccess.jl"
 uuid = "4908299a-382f-4474-b696-db03060d32c1"
