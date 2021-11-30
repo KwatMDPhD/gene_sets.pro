@@ -6,7 +6,7 @@ Download and prepare gene sets for analyses :dna: [`output`](output) contains pr
 
 ## Howdy :wave: :cowboy_hat_face:
 
-To report a bug, request a feature, or leave a comment, just [submit an issue](https://github.com/KwatMDPhD/gene_set.pro/issues/new/choose).
+To report a bug, request a feature, or leave a comment, just [submit an issue](https://github.com/KwatMDPhD/get_gene_set.pro/issues/new/choose).
 
 ---
 
