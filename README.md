@@ -1,4 +1,4 @@
-# gene_set.pro
+# get_gene_set.pro
 
 Download and prepare gene sets for analyses :dna: [`output`](output) contains professionally curated gene sets :scientist:
 
