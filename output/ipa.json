@@ -1,5 +1,6 @@
 {
   "IPA_JARID2_DN": ["MIR155"],
+  "IPA_ETV4_DN": [],
   "IPA_NCOR1_DN": [
     "BCL3",
     "CEBPA",
@@ -24,6 +25,9 @@
   ],
   "IPA_MEIS2_DN": ["MIR9-3", "MIR9-2", "HOXA10", "DRD1", "CDKN1B", "MIR9-1"],
   "IPA_MTA3_UP": ["CRTC2", "CD79B"],
+  "IPA_SIX5_DN": [],
+  "IPA_KCNIP2_UP": [],
+  "IPA_ZNF708_DN": [],
   "IPA_SATB1_DN": [
     "P2RY8",
     "TMEM241",
@@ -242,6 +246,8 @@
   "IPA_ADAR_UP": ["IKBKE", "IRF7"],
   "IPA_IRF9_DN": ["CIITA", "MAPK9", "TRIM24", "BCL6"],
   "IPA_DLX2_UP": ["GAD2", "DLX5", "DLX2", "FOXJ1", "FGF8", "GAD1", "BMP4"],
+  "IPA_LRPPRC_DN": [],
+  "IPA_MAPK8IP1_DN": [],
   "IPA_ZNF254_UP": ["MRPL30", "ENPP5"],
   "IPA_PHOX2B_UP": ["HOXB2", "TH", "PHOX2A", "DBH", "HOXA2"],
   "IPA_SIM1_DN": ["WNT1", "EPO", "LEP", "ROBO3"],
@@ -416,8 +422,10 @@
     "MYCL",
     "SEMA5B"
   ],
+  "IPA_FOXJ1_DN": [],
   "IPA_ETV5_DN": ["DNMT3A", "SFTPC", "TJP3"],
   "IPA_SOX17_UP": ["DPPA3"],
+  "IPA_H2AFY_UP": [],
   "IPA_SP3_DN": [
     "ALOX15B",
     "MUC4",
@@ -446,6 +454,7 @@
     "LOR"
   ],
   "IPA_GRHL1_UP": ["TFCP2L1", "UBP1"],
+  "IPA_WDR82_DN": [],
   "IPA_BRIP1_DN": ["UXT"],
   "IPA_GFI1_UP": ["HOXA10", "TRAF3IP2", "IL7", "ARIH2"],
   "IPA_REL_DN": [
@@ -493,6 +502,7 @@
     "MMP13",
     "SRY"
   ],
+  "IPA_ZNF431_DN": [],
   "IPA_DMTF1_UP": ["DMTF1"],
   "IPA_SREBF1_UP": [
     "RDH11",
@@ -714,6 +724,7 @@
     "CCL4"
   ],
   "IPA_NR2C2_UP": ["NDUFAF1", "THRSP", "NR2C2", "GPT"],
+  "IPA_JDP2_DN": [],
   "IPA_RARB_UP": [
     "BCKDHA",
     "POU5F1",
@@ -737,6 +748,7 @@
   "IPA_SNAPC1_UP": ["RN7SK", "RNU1-4", "RNU2-1"],
   "IPA_SOX4_DN": ["MIR132", "MST1", "SAV1", "STK3", "RAE1", "MIR212"],
   "IPA_HOXA3_DN": ["MIR210"],
+  "IPA_LBX1_UP": [],
   "IPA_GLI1_DN": [
     "ACADVL",
     "TOM1",
@@ -795,6 +807,9 @@
     "KAT2A"
   ],
   "IPA_RFX1_UP": ["ALMS1", "SLC1A1"],
+  "IPA_SRY_DN": [],
+  "IPA_TGFB1I1_DN": [],
+  "IPA_HIST1H2BE_DN": [],
   "IPA_MED28_DN": ["AEBP1", "MYH11", "ACTG2", "CNN2"],
   "IPA_FGF3_DN": ["SOX2"],
   "IPA_NKX6-1_DN": ["UNC5C"],
@@ -873,6 +888,7 @@
     "QSOX1"
   ],
   "IPA_TP53BP1_UP": ["HDAC4", "EIF4G1", "H2AFX", "MGEA5"],
+  "IPA_E2F5_UP": [],
   "IPA_EMX1_UP": ["GLI3"],
   "IPA_ELF5_UP": ["TFAP2C", "SPRR2A", "BPIFA2", "CEL"],
   "IPA_IRF3_UP": [
@@ -1016,6 +1032,7 @@
     "AMY1C"
   ],
   "IPA_HOXD8_DN": ["HOXD10", "MIR196A2", "MIR196B", "MIR196A1"],
+  "IPA_KMT2D_DN": [],
   "IPA_EP400_UP": [
     "INCENP",
     "MCM3",
@@ -1076,16 +1093,20 @@
     "MGEA5"
   ],
   "IPA_ATF5_DN": ["LCN2", "TBX2", "ALDH2"],
+  "IPA_E4F1_DN": [],
   "IPA_HOXA6_DN": ["PHF1"],
   "IPA_HDAC4_UP": ["LDHA", "HDAC4", "CLCN1"],
+  "IPA_ACTL6A_DN": [],
   "IPA_CCNH_DN": ["CUL4B"],
   "IPA_RPA2_DN": ["EIF3A"],
   "IPA_IRF9_UP": ["IFNA16", "PTGES2"],
+  "IPA_ZNF536_DN": [],
   "IPA_KDM6A_UP": ["T", "UTY"],
   "IPA_MXI1_DN": ["IARS", "SLC7A1", "IMPDH2", "LARS", "APEX1"],
   "IPA_HHEX_UP": ["SASH1", "MYH10", "SLC10A1"],
   "IPA_CNOT3_UP": ["MGEA5"],
   "IPA_SRCAP_UP": ["HESX1"],
+  "IPA_BRIP1_UP": [],
   "IPA_FOXM1_DN": ["TJP1", "MXI1", "FOXO3", "GLB1"],
   "IPA_SOX10_DN": ["ATR", "GDNF", "NOTCH1", "FOS", "DMP1"],
   "IPA_GATA3_DN": [
@@ -1483,7 +1504,10 @@
     "MIR34B",
     "THRB"
   ],
+  "IPA_CTCFL_DN": [],
+  "IPA_GATA5_DN": [],
   "IPA_NHLH1_UP": ["NEUROG3"],
+  "IPA_SIRT6_UP": [],
   "IPA_SNAI1_DN": [
     "CLDN3",
     "TWIST1",
@@ -1500,6 +1524,8 @@
     "SLC27A2",
     "MTA3"
   ],
+  "IPA_ING4_DN": [],
+  "IPA_DNAJC1_DN": [],
   "IPA_GFI1B_UP": ["GATA2", "GATA3", "GATA1"],
   "IPA_RNF2_DN": ["UBE3A", "HOXB6", "HOXB8", "HAND1", "EOMES", "HOXB4"],
   "IPA_MLXIP_UP": ["TXNIP"],
@@ -1524,6 +1550,7 @@
     "CARM1",
     "MIR181A1"
   ],
+  "IPA_HOXB13_DN": [],
   "IPA_MAF_DN": [
     "MIR10A",
     "MIR100",
@@ -1543,6 +1570,8 @@
     "ANPEP",
     "MIR99A"
   ],
+  "IPA_VSX2_UP": [],
+  "IPA_NSD1_DN": [],
   "IPA_PRDM1_UP": [
     "CD38",
     "CD70",
@@ -2069,6 +2098,7 @@
     "CDKN1B",
     "SMARCC1"
   ],
+  "IPA_ZBTB7C_DN": [],
   "IPA_HLTF_DN": ["NUPR1"],
   "IPA_HHEX_DN": [
     "KDR",
@@ -2081,9 +2111,11 @@
     "ITGAV"
   ],
   "IPA_KDM8_UP": ["CCNA1"],
+  "IPA_UBTF_DN": [],
   "IPA_NRF1_DN": ["PPRC1", "SPRR2D", "SERTAD2", "ESM1", "SPRR2F"],
   "IPA_GTF2B_UP": ["CYP24A1"],
   "IPA_RFXANK_DN": ["COL1A2"],
+  "IPA_TLX1_DN": [],
   "IPA_KDM6B_UP": ["OASL"],
   "IPA_MEF2C_UP": [
     "MYOT",
@@ -2123,6 +2155,7 @@
     "TNNC1"
   ],
   "IPA_TRIM22_UP": ["BRD7"],
+  "IPA_HIST1H2BC_DN": [],
   "IPA_TBX2_DN": [
     "TBX20",
     "TCEA2",
@@ -2152,6 +2185,7 @@
     "NR1I2",
     "EGR1"
   ],
+  "IPA_KLF7_UP": [],
   "IPA_HIST2H4B_UP": ["NPAT", "NEUROG1", "RUVBL1"],
   "IPA_GTF2F2_UP": ["CYC1", "DRD2", "MGEA5"],
   "IPA_USF2_UP": [
@@ -2178,7 +2212,9 @@
     "WWP2",
     "IL17A"
   ],
+  "IPA_PRMT5_UP": [],
   "IPA_HIST1H4E_DN": ["NUPR1", "ARHGDIG"],
+  "IPA_ALYREF_DN": [],
   "IPA_AHR_UP": [
     "ESRRG",
     "CAMK2N1",
@@ -2369,6 +2405,7 @@
     "CNTN1",
     "CIITA"
   ],
+  "IPA_ZNF143_DN": [],
   "IPA_SKIL_UP": [
     "VAT1",
     "SLC16A6",
@@ -2504,6 +2541,9 @@
     "NEIL3"
   ],
   "IPA_CREB3L3_UP": ["G6PC", "LPIN1", "APCS", "HAMP"],
+  "IPA_MAFK_DN": [],
+  "IPA_RBMS1_UP": [],
+  "IPA_HIST1H1E_UP": [],
   "IPA_CENPA_UP": ["S100A6"],
   "IPA_LHX2_UP": [
     "OR4C3",
@@ -2567,6 +2607,7 @@
     "TPH2",
     "CHRM4"
   ],
+  "IPA_SUV39H2_DN": [],
   "IPA_HOXC4_UP": ["IHH", "FGFR3", "MMP8", "AICDA", "TNFSF13"],
   "IPA_ATF4_DN": [
     "LALBA",
@@ -2601,6 +2642,7 @@
   ],
   "IPA_HNF1B_DN": ["HNF1A", "LRP5", "MIR17HG"],
   "IPA_MED14_DN": ["MGEA5"],
+  "IPA_HIST1H2BG_DN": [],
   "IPA_NFIX_DN": ["IKZF1", "SLC25A5", "PDGFA"],
   "IPA_TAF10_UP": ["CCNK"],
   "IPA_CDX2_UP": [
@@ -2695,6 +2737,7 @@
     "PF4",
     "XBP1"
   ],
+  "IPA_CTR9_DN": [],
   "IPA_HOXA10_DN": [
     "RP2",
     "LOC284023",
@@ -2732,6 +2775,7 @@
     "MIR135A2",
     "P4HB"
   ],
+  "IPA_ZNF423_UP": [],
   "IPA_NFE2L2_UP": [
     "RYR3",
     "ADCYAP1",
@@ -3018,7 +3062,9 @@
     "GDF2"
   ],
   "IPA_TBX19_UP": ["POMC"],
+  "IPA_HES7_DN": [],
   "IPA_CTBP2_DN": ["CDH5", "DLL4"],
+  "IPA_KCNIP4_DN": [],
   "IPA_STAT5A_DN": [
     "INSIG1",
     "CDC25C",
@@ -3194,6 +3240,7 @@
     "TAP2"
   ],
   "IPA_ZIC1_DN": ["CDKN1B", "WNT7A"],
+  "IPA_SIX1_UP": [],
   "IPA_TRIM24_DN": [
     "OASL",
     "FBN1",
@@ -3217,6 +3264,8 @@
     "TRPV6",
     "SHISA5"
   ],
+  "IPA_HESX1_UP": [],
+  "IPA_RFX4_DN": [],
   "IPA_EGR3_UP": ["TFAP2C", "MIR223", "NAB2", "CARM1"],
   "IPA_IRF4_UP": [
     "SWAP70",
@@ -3335,7 +3384,11 @@
     "MIR21",
     "BMP4"
   ],
+  "IPA_ZBTB43_UP": [],
+  "IPA_PDCD2_DN": [],
   "IPA_NFIB_DN": ["LDHC"],
+  "IPA_FOXA3_DN": [],
+  "IPA_AIRE_DN": [],
   "IPA_ZBTB14_DN": ["MYC"],
   "IPA_ZSCAN10_UP": ["EIF1AY"],
   "IPA_NMI_UP": ["ARHGAP21"],
@@ -3377,6 +3430,7 @@
     "CKMT2",
     "TNNC1"
   ],
+  "IPA_RB1CC1_DN": [],
   "IPA_BNC1_DN": ["KRAS"],
   "IPA_LHX2_DN": ["OMP", "NEUROD1", "ISL1", "POU4F1", "GNAL"],
   "IPA_MYRF_UP": ["PLAG1", "MOG", "PLP1"],
@@ -3455,6 +3509,7 @@
     "ACOX1"
   ],
   "IPA_E4F1_UP": ["IDS"],
+  "IPA_LDB2_DN": [],
   "IPA_POU4F1_DN": [
     "LILRB3",
     "IRS4",
@@ -3484,7 +3539,7 @@
     "IRX5"
   ],
   "IPA_NCOR2_DN": ["PLA2G2A", "CHGB", "TFF1", "RARB", "OSM", "PLIN1"],
-  "IPA_ZNF512B_DN": ["DROSHA", "MIR17HG"],
+  "IPA_SOX1_DN": [],
   "IPA_ASCL1_DN": [
     "DLX1",
     "NOTCH1",
@@ -3498,7 +3553,9 @@
     "GAD1",
     "BMP4"
   ],
+  "IPA_ZNF512B_DN": ["DROSHA", "MIR17HG"],
   "IPA_FLII_UP": ["KRAS", "TFF1"],
+  "IPA_ARID1B_DN": [],
   "IPA_CHD7_UP": ["INHBA"],
   "IPA_TAZ_UP": [
     "EDN1",
@@ -3519,6 +3576,8 @@
     "MIR216B",
     "MIR1275"
   ],
+  "IPA_WHSC1_DN": [],
+  "IPA_CREB3_DN": [],
   "IPA_E2F4_UP": ["RBL2", "KRAS", "NPAT", "CCNA1", "CDCA4"],
   "IPA_ATF3_DN": [
     "AURKB",
@@ -3544,6 +3603,7 @@
   ],
   "IPA_NFKB2_DN": ["MADCAM1", "GFI1", "IL23A", "PSMB9", "ABCB4", "LTBR"],
   "IPA_PRRX1_UP": ["FOS", "LPP", "SOX9", "PAX9"],
+  "IPA_TFDP2_DN": [],
   "IPA_NFYA_UP": [
     "COMMD3-BMI1",
     "DSPP",
@@ -3561,6 +3621,7 @@
     "HOXB4"
   ],
   "IPA_HIST1H4C_UP": ["NPAT", "NEUROG1", "RUVBL1"],
+  "IPA_GTF2H1_UP": [],
   "IPA_EP300_UP": [
     "MIR155",
     "MIA",
@@ -3669,12 +3730,19 @@
     "MIR212",
     "HIST2H4A"
   ],
+  "IPA_SUB1_UP": [],
+  "IPA_CHD3_DN": [],
   "IPA_HIST1H4J_DN": ["NUPR1", "ARHGDIG"],
   "IPA_NFIL3_DN": ["FGF21", "TBX2"],
   "IPA_ZIC2_DN": ["ISL2", "WNT7A"],
+  "IPA_SRCAP_DN": [],
+  "IPA_MIER1_UP": [],
   "IPA_SRY_UP": ["PTGDS", "CBLN4"],
+  "IPA_PA2G4_UP": [],
   "IPA_FOXC1_UP": ["TCF15", "MESP1"],
   "IPA_ZBTB17_DN": ["LRRN3"],
+  "IPA_SETD7_UP": [],
+  "IPA_SNAPC3_DN": [],
   "IPA_HIST4H4_DN": ["NUPR1", "ARHGDIG"],
   "IPA_KLF2_UP": ["UGDH", "HBG1"],
   "IPA_EGR2_UP": [
@@ -3763,6 +3831,9 @@
     "RXRA",
     "SLC14A1"
   ],
+  "IPA_PBX2_DN": [],
+  "IPA_MYRF_DN": [],
+  "IPA_SMARCD3_DN": [],
   "IPA_THRA_UP": [
     "CYP7A1",
     "CIRBP",
@@ -3785,6 +3856,7 @@
   ],
   "IPA_ZNF711_UP": ["EPO"],
   "IPA_FOXN3_DN": ["OSM"],
+  "IPA_ZNF512B_UP": [],
   "IPA_HIST1H4D_UP": ["NPAT", "NEUROG1", "RUVBL1"],
   "IPA_HIST1H4F_DN": ["NUPR1", "ARHGDIG"],
   "IPA_LHX6_UP": ["PITX2", "AMBN", "LEF1", "CD44", "FGF8", "NEUROG3", "AMELX"],
@@ -3885,8 +3957,9 @@
   ],
   "IPA_PLAGL2_UP": ["LDHA", "BNIP3", "NCF2"],
   "IPA_BNIP3_UP": ["S100A2", "MTPN"],
-  "IPA_TBX3_DN": ["SMPX"],
+  "IPA_ATF7_DN": [],
   "IPA_RB1CC1_UP": ["SMAD7", "CDKN2B"],
+  "IPA_TBX3_DN": ["SMPX"],
   "IPA_FOSB_UP": [
     "NRTN",
     "FOSL1",
@@ -3971,6 +4044,8 @@
   ],
   "IPA_POU2F2_DN": ["MSC", "CD86", "ID2"],
   "IPA_NEUROD1_UP": ["NEUROD1", "INSM2", "FOXN4", "SCT", "ANXA7"],
+  "IPA_ZBTB7A_UP": [],
+  "IPA_HOXD11_DN": [],
   "IPA_OLIG2_UP": ["DTX1", "PTCRA"],
   "IPA_GATA4_DN": ["ATG12", "PTX3", "DAB2", "MPG", "GATA4", "FZD8"],
   "IPA_MYBBP1A_UP": ["PKNOX1"],
@@ -4009,6 +4084,8 @@
     "DDAH1",
     "ENPP5"
   ],
+  "IPA_FEV_DN": [],
+  "IPA_NCOA2_DN": [],
   "IPA_SMARCA2_UP": [
     "DCT",
     "PMEL",
@@ -4022,6 +4099,9 @@
     "TAGLN",
     "MEF2C"
   ],
+  "IPA_FOXC1_DN": [],
+  "IPA_NKX3-2_DN": [],
+  "IPA_PHOX2B_DN": [],
   "IPA_ZNF217_DN": [
     "ATP10D",
     "ITM2A",
@@ -4036,6 +4116,7 @@
     "NLGN1",
     "LYPD1"
   ],
+  "IPA_H3F3B_UP": [],
   "IPA_FOSL1_DN": [
     "SYK",
     "SNAI1",
@@ -4093,6 +4174,7 @@
     "KRT10",
     "COMMD3-BMI1"
   ],
+  "IPA_TLX3_DN": [],
   "IPA_FOXG1_DN": ["MIR9-3", "NCOA3", "MIR9-2", "GDF11", "CDKN2B", "MIR9-1"],
   "IPA_USF2_DN": ["USF1"],
   "IPA_HIST1H4I_UP": ["NPAT", "NEUROG1", "RUVBL1"],
@@ -4112,8 +4194,10 @@
     "BCL2L1"
   ],
   "IPA_ZFP42_UP": ["GNL3", "POU5F1"],
-  "IPA_ZNF302_UP": ["CD24"],
+  "IPA_RCOR1_UP": [],
   "IPA_NEUROG1_DN": ["LRIG1", "AMIGO2", "BEX1", "HELT"],
+  "IPA_HOPX_DN": [],
+  "IPA_ZNF302_UP": ["CD24"],
   "IPA_GABPA_DN": ["KLF1"],
   "IPA_E2F6_UP": ["UNG", "CBX5"],
   "IPA_CDK2_UP": [
@@ -4167,6 +4251,7 @@
     "MTA3"
   ],
   "IPA_ZNF143_UP": ["TALDO1", "HIST1H1T", "TRNAU1"],
+  "IPA_ATOH1_DN": [],
   "IPA_FOXN1_UP": [
     "SERPINB1",
     "TRG",
@@ -4177,20 +4262,7 @@
     "FAM57A",
     "BMP4"
   ],
-  "IPA_HIST1H1A_DN": [
-    "TRPM4",
-    "RCHY1",
-    "HIRIP3",
-    "TMEM53",
-    "LYRM9",
-    "TMEM246",
-    "ATP6V0E2",
-    "CCDC101",
-    "FKBP4",
-    "CSTF1",
-    "ZC3H4",
-    "PCBP4"
-  ],
+  "IPA_HIVEP2_DN": [],
   "IPA_NCOA1_UP": [
     "SERPINE1",
     "FGF2",
@@ -4224,7 +4296,24 @@
     "SMARCC1"
   ],
   "IPA_SULT2A1_DN": ["SLC51A", "TNF", "NR0B1", "AR", "NR1H4"],
+  "IPA_HIST1H1A_DN": [
+    "TRPM4",
+    "RCHY1",
+    "HIRIP3",
+    "TMEM53",
+    "LYRM9",
+    "TMEM246",
+    "ATP6V0E2",
+    "CCDC101",
+    "FKBP4",
+    "CSTF1",
+    "ZC3H4",
+    "PCBP4"
+  ],
   "IPA_H3F3A_DN": ["RNU7-1"],
+  "IPA_NFYB_DN": [],
+  "IPA_BCL11A_UP": [],
+  "IPA_SMYD3_DN": [],
   "IPA_NR0B2_DN": [
     "ESRRG",
     "CYP11A1",
@@ -4322,6 +4411,7 @@
     "FTH1",
     "CCNG2"
   ],
+  "IPA_CENPA_DN": [],
   "IPA_POU2F1_DN": ["CYP2C8", "CYP2J2", "SELE"],
   "IPA_SP100_UP": ["IFNL1"],
   "IPA_CBX2_DN": ["CBX7", "CLDN7"],
@@ -4416,6 +4506,8 @@
     "LCN2",
     "MAPK13"
   ],
+  "IPA_ELK4_DN": [],
+  "IPA_NEUROD2_DN": [],
   "IPA_TFDP1_UP": ["CD53", "CCNA1", "APAF1", "DHFR", "ADAM21", "CCR9", "CASP7"],
   "IPA_ATF4_UP": [
     "ATF3",
@@ -4489,6 +4581,7 @@
     "NARS"
   ],
   "IPA_SOX6_UP": ["T", "SMARCD3"],
+  "IPA_H3F3A_UP": [],
   "IPA_CDK9_UP": [
     "YBX1",
     "TNFAIP3",
@@ -4669,6 +4762,7 @@
     "SKP1"
   ],
   "IPA_PCGF2_UP": ["RNF2", "SPARC", "GATA3", "IL5", "IL13", "TXLNA"],
+  "IPA_ALX4_UP": [],
   "IPA_LEF1_DN": [
     "MIR22",
     "BMP4",
@@ -4682,6 +4776,7 @@
     "COMMD3-BMI1"
   ],
   "IPA_DNMT1_DN": ["RBL2", "FOXP3", "PTPRR", "ASIP", "CHFR", "CYP24A1"],
+  "IPA_TFEB_DN": [],
   "IPA_FOXP3_UP": ["PIM2", "NT5E", "IL21", "FOXP3", "IL7", "IL17D", "BCL11B"],
   "IPA_GLI2_DN": [
     "KRT1",
@@ -4694,6 +4789,8 @@
     "KRT10"
   ],
   "IPA_SP4_DN": ["KCNE1", "ZBTB10", "ADH5"],
+  "IPA_ZBTB14_UP": [],
+  "IPA_LMO2_DN": [],
   "IPA_SIX1_DN": ["HMX3"],
   "IPA_LMO1_DN": ["PTCRA"],
   "IPA_PAX7_UP": [
@@ -4744,8 +4841,10 @@
     "TOB1",
     "MYF5"
   ],
+  "IPA_MLLT3_DN": [],
   "IPA_YAP1_DN": ["MIR375"],
   "IPA_GATA5_UP": ["USF1", "ACTC1", "MYH6", "TNNC1"],
+  "IPA_RFX7_UP": [],
   "IPA_CREB3L2_UP": [
     "SEC23B",
     "SEC24C",
@@ -4756,8 +4855,11 @@
     "MCL1",
     "HSPA5"
   ],
+  "IPA_ZNF665_DN": [],
+  "IPA_HOXC13_DN": [],
   "IPA_SOX4_UP": ["ATOH7", "CD2", "NCAM1", "MAP4K5", "FOXL2"],
   "IPA_CDK9_DN": ["MIR206", "MIR1-1", "CXCL12", "PPARGC1A", "MIR1-2"],
+  "IPA_GATA6_DN": [],
   "IPA_GABPB1_UP": ["CEBPA", "TNC", "UCP3", "TSHR", "RRAS", "UTRN", "AURKA"],
   "IPA_HIST1H1T_DN": ["ATP6V0E2", "LYRM9", "CCDC101", "TMEM53"],
   "IPA_PSMC6_UP": ["KRAS"],
@@ -4799,6 +4901,7 @@
     "MIR429"
   ],
   "IPA_HIST1H4I_DN": ["NUPR1", "ARHGDIG"],
+  "IPA_MED13_UP": [],
   "IPA_HOXB1_DN": ["POU5F1", "TGIF1"],
   "IPA_ABL1_UP": [
     "TEK",
@@ -4941,8 +5044,10 @@
     "CRABP2",
     "ABCA1"
   ],
+  "IPA_CHD7_DN": [],
   "IPA_H2AFX_UP": ["LIN28A", "MDC1"],
   "IPA_LRRFIP1_UP": ["ARNT2", "OSM"],
+  "IPA_YBX2_DN": [],
   "IPA_SP7_UP": ["NFE2L1", "IFITM5", "WWTR1", "DSPP", "MTTP", "HIVEP2"],
   "IPA_STAT5B_DN": [
     "TRAF2",
@@ -5025,6 +5130,7 @@
     "MYH7",
     "MIR27A"
   ],
+  "IPA_NOV_DN": [],
   "IPA_DBP_UP": [
     "ADH1C",
     "PER3",
@@ -5148,6 +5254,7 @@
   ],
   "IPA_NFE2L3_UP": ["NQO1", "FGF7"],
   "IPA_NR0B1_UP": ["MC2R"],
+  "IPA_TRIM24_UP": [],
   "IPA_NKX2-2_UP": ["MNX1", "HOXB2", "SLC2A2", "NEUROD1"],
   "IPA_NR3C1_DN": [
     "LPA",
@@ -5291,7 +5398,9 @@
     "MIR429"
   ],
   "IPA_MSX1_UP": ["ISL1", "MSX1", "SFRP1", "FGF8", "PAX9", "BMP4", "GDF2"],
+  "IPA_TFCP2_DN": [],
   "IPA_TCF7_DN": ["SDC2", "IL17A"],
+  "IPA_FOXI1_DN": [],
   "IPA_TBX21_UP": [
     "EBI3",
     "PRF1",
@@ -5454,6 +5563,7 @@
     "NEUROG3"
   ],
   "IPA_KLF1_UP": ["HBG2", "ALAS2", "HBG1"],
+  "IPA_FOXP2_UP": [],
   "IPA_DAXX_UP": [
     "CYP11A1",
     "NFATC2",
@@ -5697,9 +5807,14 @@
   ],
   "IPA_VAV1_UP": ["SPI1", "FOS", "CD69"],
   "IPA_RBL2_UP": ["MXD1", "RBL2", "IL22", "ARNT2", "TFAP2A", "FOXO3", "ADAM12"],
+  "IPA_SETD2_UP": [],
+  "IPA_ELF1_DN": [],
   "IPA_RXRG_DN": ["LPL", "TSHB"],
   "IPA_ING1_DN": ["RAE1", "AFP", "DEK"],
+  "IPA_ASF1B_DN": [],
+  "IPA_RREB1_DN": [],
   "IPA_MZF1_UP": ["PADI1"],
+  "IPA_ZNF302_DN": [],
   "IPA_SMYD3_UP": [
     "SH2B2",
     "ECEL1",
@@ -5753,6 +5868,7 @@
   ],
   "IPA_POU1F1_DN": ["GDNF", "AES"],
   "IPA_ELK4_UP": ["ARNT2", "OR10J5"],
+  "IPA_ZNF552_UP": [],
   "IPA_GZF1_DN": [
     "MIRLET7F1",
     "MIRLET7A2",
@@ -5827,9 +5943,11 @@
     "GYPA"
   ],
   "IPA_KAT7_DN": ["KLK3"],
+  "IPA_LMX1A_DN": [],
   "IPA_TFEB_UP": ["ATP6V0E1", "GNS", "TYRP1", "SCPEP1", "TMEM55B", "ATP6V1H"],
   "IPA_WNK1_UP": ["LHX8"],
   "IPA_SCXA_UP": ["ACAN"],
+  "IPA_ZFPM2_DN": [],
   "IPA_SMAD4_UP": [
     "AREG",
     "MUC4",
@@ -6005,12 +6123,15 @@
   "IPA_HDAC7_DN": ["NFATC1", "RPRM"],
   "IPA_SIX2_UP": ["SIX1", "SIX5"],
   "IPA_KMT2C_UP": ["HOXC6"],
+  "IPA_GABPB1_DN": [],
   "IPA_ETV4_UP": ["HPGD", "ISL1", "B4GALT5", "B4GALT1", "POU4F1", "PLAG1"],
+  "IPA_ZNF254_DN": [],
   "IPA_CREB3L1_DN": ["SLC1A4", "TFF3"],
   "IPA_RFX5_UP": ["HLA-DRA", "HLA-B"],
   "IPA_NOBOX_UP": ["ZAR1", "POU5F1", "H1FOO", "BMP15"],
   "IPA_E2F2_DN": ["TAF4"],
   "IPA_IRF2_UP": ["IL12RB2", "IL7", "WNT5A"],
+  "IPA_GLIS1_DN": [],
   "IPA_CREB5_DN": ["ZNF217"],
   "IPA_HOXD9_UP": ["HOXD9"],
   "IPA_ABL1_DN": ["HMGN5", "MIR210", "TOPBP1", "DOK1", "MDM2", "CAV1"],
@@ -6096,6 +6217,8 @@
   ],
   "IPA_TFAP2A_UP": ["KRT14", "FGFR4", "SLC19A1", "LIPA"],
   "IPA_HIST1H4H_DN": ["NUPR1", "ARHGDIG"],
+  "IPA_MTA3_DN": [],
+  "IPA_PLAGL2_DN": [],
   "IPA_TBP_UP": ["RNU1-4", "BDP1", "FOS", "LDLR", "MGEA5"],
   "IPA_ZFPM1_DN": ["PRG2", "CPA3", "IL5", "TFR2"],
   "IPA_SIN3B_UP": ["ARNT2"],
@@ -6255,6 +6378,8 @@
     "TNFSF4",
     "IL17A"
   ],
+  "IPA_FOXN1_DN": [],
+  "IPA_FOXN3_UP": [],
   "IPA_ESRRA_UP": [
     "HSD17B4",
     "ATP5F1",
@@ -6348,6 +6473,7 @@
     "HMGCR",
     "CPT1B"
   ],
+  "IPA_ZNF85_DN": [],
   "IPA_KAT5_UP": [
     "GPC5",
     "PNKP",
@@ -6502,6 +6628,7 @@
     "HIST1H2BE",
     "HIST2H2BE"
   ],
+  "IPA_PRDM16_DN": [],
   "IPA_PML_DN": [
     "EGFR",
     "IL1RN",
@@ -6531,6 +6658,7 @@
   "IPA_RARB_DN": ["SUV39H1", "KRT1", "RARB", "NR2C2", "TGIF1"],
   "IPA_E2F3_DN": ["MIR210", "MIR203", "MIR3545"],
   "IPA_SATB2_UP": ["AUTS2", "CNTF", "TBR1", "SP7"],
+  "IPA_KLF2_DN": [],
   "IPA_IKZF1_DN": [
     "MIR148B",
     "MIR148A",
@@ -6680,6 +6808,7 @@
     "NR1D1",
     "CLOCK"
   ],
+  "IPA_ZNF91_DN": [],
   "IPA_TFE3_UP": ["TYRP1", "SLC34A1", "DCT"],
   "IPA_CEBPA_DN": [
     "INSR",
@@ -6949,6 +7078,7 @@
     "TMEM47",
     "CDO1"
   ],
+  "IPA_PAX1_DN": [],
   "IPA_RELA_UP": [
     "MAP2K3",
     "TNFRSF11A",
@@ -7127,6 +7257,8 @@
     "STIM1"
   ],
   "IPA_ZBTB20_UP": ["IGFALS", "UGDH", "GSTM4", "ADH4"],
+  "IPA_HOXB5_UP": [],
+  "IPA_NFATC4_DN": [],
   "IPA_H2AFZ_UP": ["RPS6", "EPO", "CDK7", "EP400"],
   "IPA_H2AFY_DN": ["MIR210", "POU5F1", "KRT23", "THRSP"],
   "IPA_UHRF1_UP": ["SATB1", "EP400"],
@@ -7300,6 +7432,7 @@
     "CETP"
   ],
   "IPA_HLF_DN": ["AQP4"],
+  "IPA_SOX17_DN": [],
   "IPA_STAT1_DN": [
     "PIAS1",
     "TRAF2",
@@ -7364,6 +7497,7 @@
     "FSHB",
     "SMURF2"
   ],
+  "IPA_SOX6_DN": [],
   "IPA_CDK7_DN": ["MIR16-1", "MIR195", "MIR15B", "MIR15A", "MIR16-2"],
   "IPA_MAPK8IP1_UP": ["MAPK8IP1", "MAP2K7", "MAP3K9", "MAP3K11"],
   "IPA_HSF1_UP": [
@@ -7644,6 +7778,7 @@
   "IPA_HIST1H2BI_UP": ["NPAT"],
   "IPA_HOPX_UP": ["MYH3"],
   "IPA_PBX1_UP": ["ISL1", "GATA2", "HOXB1", "PKNOX1", "PF4"],
+  "IPA_DLX3_DN": [],
   "IPA_IRF1_UP": [
     "MIR155",
     "MMP9",
@@ -7896,6 +8031,8 @@
     "HOXC8",
     "PMP22"
   ],
+  "IPA_ZBTB20_DN": [],
+  "IPA_SIX3_UP": [],
   "IPA_HIVEP2_UP": ["MGEA5"],
   "IPA_ZNF528_UP": ["MRPL30", "ENPP5"],
   "IPA_ZFHX3_UP": ["AICDA", "NEUROD1"],
@@ -8599,6 +8736,7 @@
     "PDGFA"
   ],
   "IPA_HIST1H1C_DN": ["AXIN2", "LSM10", "TFAP2C", "RNU7-1", "ATP7B"],
+  "IPA_BACH2_DN": [],
   "IPA_MYOG_UP": [
     "SIX1",
     "CHRNE",
@@ -8634,6 +8772,7 @@
     "ADAM12",
     "CAV3"
   ],
+  "IPA_CDC5L_DN": [],
   "IPA_HIST1H1D_DN": ["AXIN2"],
   "IPA_SNAPC4_UP": ["RN7SK", "RNU1-4"],
   "IPA_NFIB_UP": ["LOX", "SFTPC"],
@@ -8966,6 +9105,7 @@
     "DHCR7"
   ],
   "IPA_WHSC1_UP": ["TWIST1"],
+  "IPA_FANCD2_DN": [],
   "IPA_JUP_UP": ["NRCAM", "WISP2", "DSP", "CDH11"],
   "IPA_RAX_UP": ["RLBP1"],
   "IPA_JUN_DN": [
@@ -9621,6 +9761,8 @@
     "GNGT2",
     "CNGA3"
   ],
+  "IPA_MXD1_DN": [],
+  "IPA_NONO_DN": [],
   "IPA_NR6A1_DN": ["T", "BMP15"],
   "IPA_HOXC6_UP": ["PLXDC1", "TNFAIP8", "FAM49A", "GAS2L3", "C14orf37"],
   "IPA_EHMT2_DN": ["C8orf44-SGK3", "SNRPN", "MAP1LC3B", "SGK3"],
@@ -9726,6 +9868,7 @@
     "SOCS3",
     "CDKN1B"
   ],
+  "IPA_SSRP1_DN": [],
   "IPA_SKIL_DN": [
     "TGFBR2",
     "MYOG",
@@ -9736,6 +9879,7 @@
     "SOX17",
     "FOXA2"
   ],
+  "IPA_HOXA6_UP": [],
   "IPA_KDM6A_DN": ["MTDH"],
   "IPA_NCOA6_UP": ["CYP7A1"],
   "IPA_IKZF1_UP": [
@@ -9929,6 +10073,7 @@
     "CST3",
     "ZBTB7A"
   ],
+  "IPA_SMARCD2_DN": [],
   "IPA_SPIC_DN": ["FCGR2B"],
   "IPA_GATA1_UP": [
     "PRG2",
@@ -10016,8 +10161,8 @@
     "AGER",
     "IFIT1"
   ],
-  "IPA_IRF6_UP": ["FPR2"],
   "IPA_FUS_UP": ["ADORA2A", "LIN28A"],
+  "IPA_IRF6_UP": ["FPR2"],
   "IPA_DDIT3_DN": [
     "GNE",
     "VIMP",
@@ -10065,6 +10210,7 @@
     "SPTLC2"
   ],
   "IPA_WNK1_DN": ["KCNJ1"],
+  "IPA_MTA2_UP": [],
   "IPA_CEBPD_DN": [
     "MT3",
     "MIRLET7A1",
@@ -10099,6 +10245,7 @@
     "SPARC"
   ],
   "IPA_SFPQ_UP": ["CD24", "IL5"],
+  "IPA_TADA3_DN": [],
   "IPA_SETD7_DN": ["PKD1"],
   "IPA_STAT2_DN": ["NKX2-3", "TRIM24", "MIR21", "GLI1", "CIITA"],
   "IPA_TLE1_DN": ["TRA"],
@@ -10150,6 +10297,9 @@
     "IGF1"
   ],
   "IPA_PAX1_UP": ["NKX3-2", "TCF15", "GLI3"],
+  "IPA_ZMYND11_UP": [],
+  "IPA_NHLH1_DN": [],
+  "IPA_BNIP3_DN": [],
   "IPA_GLI2_UP": [
     "HHIP",
     "IFITM5",
@@ -10170,8 +10320,13 @@
     "BMP4"
   ],
   "IPA_TFAP2B_DN": ["POU4F1"],
+  "IPA_KDM2B_UP": [],
+  "IPA_ERCC6L_UP": [],
+  "IPA_MESP1_DN": [],
   "IPA_HIST1H4H_UP": ["NPAT", "NEUROG1", "RUVBL1"],
+  "IPA_CHD5_UP": [],
   "IPA_TEF_DN": ["AQP4"],
+  "IPA_GRHL1_DN": [],
   "IPA_RORA_UP": [
     "RORC",
     "ACSL4",
@@ -10195,6 +10350,7 @@
     "CAV3"
   ],
   "IPA_KCNIP3_UP": ["CANT1"],
+  "IPA_NR2E3_UP": [],
   "IPA_HMGA2_UP": ["SNAI1", "TWIST1", "BMP4"],
   "IPA_CDK2_DN": [
     "RBL2",
@@ -10255,6 +10411,7 @@
     "NCR3LG1",
     "ACAN"
   ],
+  "IPA_CREB3L3_DN": [],
   "IPA_MMP3_DN": [
     "IL12A",
     "FBN1",
@@ -10268,6 +10425,7 @@
     "SOD2"
   ],
   "IPA_PTTG1_UP": ["BUB1B"],
+  "IPA_HEYL_UP": ["MAML1", "MIB1"],
   "IPA_MED1_UP": [
     "HSD17B4",
     "ZMYND11",
@@ -10295,26 +10453,6 @@
     "ACOX1",
     "BOP1",
     "6-Sep"
-  ],
-  "IPA_HEYL_UP": ["MAML1", "MIB1"],
-  "IPA_H2AFX_DN": [
-    "POLK",
-    "CLU",
-    "MIR93",
-    "YY1",
-    "POLD4",
-    "DBF4B",
-    "PLRG1",
-    "MIR106A",
-    "MIR20A",
-    "MIR18A",
-    "MIR106B",
-    "MIR17",
-    "CHEK2",
-    "MIR20B",
-    "PHF6",
-    "MIR18B",
-    "XRCC2"
   ],
   "IPA_TFAM_UP": ["ACADL", "SLC25A20", "ECH1", "ECHS1", "AUH"],
   "IPA_HAND1_UP": [
@@ -10362,6 +10500,26 @@
     "BMP4",
     "WNT1"
   ],
+  "IPA_H2AFX_DN": [
+    "POLK",
+    "CLU",
+    "MIR93",
+    "YY1",
+    "POLD4",
+    "DBF4B",
+    "PLRG1",
+    "MIR106A",
+    "MIR20A",
+    "MIR18A",
+    "MIR106B",
+    "MIR17",
+    "CHEK2",
+    "MIR20B",
+    "PHF6",
+    "MIR18B",
+    "XRCC2"
+  ],
+  "IPA_HDAC10_UP": [],
   "IPA_GLIS1_UP": ["SPRR1B", "TGM1", "IVL", "KLK7"],
   "IPA_KLF6_DN": ["SIN3A", "NR2F6", "TFPI2", "DLK1", "NR1D1"],
   "IPA_NCOA3_UP": [
@@ -10443,6 +10601,7 @@
     "HOXA5",
     "KLF9"
   ],
+  "IPA_TBX22_DN": [],
   "IPA_SMAD2_DN": [
     "STAT1",
     "MIR155",
@@ -10492,7 +10651,9 @@
     "MIRLET7E"
   ],
   "IPA_MSLN_UP": ["TEAD1"],
+  "IPA_SIN3A_UP": [],
   "IPA_FOXF2_UP": ["CHUK", "SMO", "IKBKB"],
+  "IPA_ERCC8_UP": [],
   "IPA_LITAF_DN": ["OSM", "BCL6"],
   "IPA_SNAPC2_UP": ["RN7SK", "RNU1-4"],
   "IPA_FOXA2_DN": [
@@ -10551,7 +10712,7 @@
     "TNFSF4"
   ],
   "IPA_NEUROD6_DN": ["ID1"],
-  "IPA_MNAT1_UP": ["NCOA3", "CCNE1"],
+  "IPA_GTF2F2_DN": [],
   "IPA_CEBPD_UP": [
     "CDC27",
     "PDGFRA",
@@ -10632,8 +10793,10 @@
     "PALM2",
     "COMMD3-BMI1"
   ],
+  "IPA_MNAT1_UP": ["NCOA3", "CCNE1"],
   "IPA_PLAGL1_UP": ["LDHA", "PLIN2", "PRODH", "APAF1", "AIP"],
   "IPA_CDC5L_UP": ["TNFRSF8"],
+  "IPA_SPIB_DN": [],
   "IPA_THRB_DN": [
     "SREBF1",
     "APOC3",
@@ -10674,6 +10837,9 @@
   "IPA_IRF2_DN": ["GBP1"],
   "IPA_YWHAZ_UP": ["SMAD3", "TNFSF11", "VWF", "OPRK1", "FOS", "HGF", "SOD2"],
   "IPA_KLF3_DN": ["KLF12"],
+  "IPA_CHD8_DN": [],
+  "IPA_FUBP1_DN": [],
+  "IPA_NPAS3_DN": [],
   "IPA_NFKB2_UP": [
     "IL23A",
     "CXCL13",
@@ -11884,11 +12050,13 @@
     "MIR424"
   ],
   "IPA_TP53BP2_DN": ["MBD1"],
+  "IPA_ZNF33A_UP": [],
   "IPA_HIST1H4L_DN": ["NUPR1", "ARHGDIG"],
   "IPA_KLF10_UP": ["FOXP3", "OSM", "PTGS1", "HOXA5", "BMP4", "LIF"],
   "IPA_E2F2_UP": ["CDCA4", "CDKN2D", "CDC45", "MCM10"],
   "IPA_TLX1_UP": ["HOXA10", "NMI"],
   "IPA_FOXL2_DN": ["TAS2R13", "KLK9", "RXFP3", "EN2", "MRGPRE"],
+  "IPA_CNOT3_DN": [],
   "IPA_HOXB1_UP": ["HOXA2", "HOXB2", "HOXB1", "HOXB4"],
   "IPA_PAX2_DN": ["CAT", "GLI3", "VSX2"],
   "IPA_YY1_UP": [
@@ -11903,6 +12071,8 @@
     "FCER1A"
   ],
   "IPA_SPIC_UP": ["SP6"],
+  "IPA_BHLHE40_DN": [],
+  "IPA_PAX4_DN": [],
   "IPA_ASF1B_UP": ["TBX2"],
   "IPA_ONECUT1_DN": ["CEBPA", "PFKL", "PCK1", "SLC2A2", "FOXA2"],
   "IPA_OTP_UP": ["MIF", "T"],
@@ -12008,6 +12178,7 @@
     "PLK1",
     "CCNA2"
   ],
+  "IPA_POU3F2_DN": [],
   "IPA_FOXP3_DN": [
     "GPR83",
     "IL21",
@@ -12019,6 +12190,7 @@
     "IL17A"
   ],
   "IPA_KLF11_DN": ["SOD2"],
+  "IPA_NEUROD4_DN": [],
   "IPA_GSC_DN": ["CLCA2"],
   "IPA_PRDM8_DN": ["PAQR3", "ANTXR2", "CDH11", "BHLHE22", "GRIN3A", "GJD2"],
   "IPA_HIST1H2BE_UP": ["NPAT"],
@@ -12050,6 +12222,7 @@
   ],
   "IPA_RUNX3_DN": ["FSHB", "CBFB"],
   "IPA_DBP_DN": ["AQP4", "TBX2", "CRY2", "PPARA", "HOXA10", "CRY1", "MIR21"],
+  "IPA_TSHZ3_UP": [],
   "IPA_PAX9_UP": ["MESP2", "GLI3", "TRG", "TCF15", "TBX1", "PRRX2"],
   "IPA_MAFF_UP": [
     "GCLC",
@@ -12188,6 +12361,8 @@
     "PFKL",
     "CPT1A"
   ],
+  "IPA_KLF15_DN": [],
+  "IPA_OLIG2_DN": [],
   "IPA_SIRT1_UP": [
     "BNIP3",
     "MMP3",
@@ -12290,6 +12465,7 @@
     "MIR517C"
   ],
   "IPA_ZNF431_UP": ["MRPL30", "ENPP5"],
+  "IPA_GRHL2_DN": [],
   "IPA_EMX2_UP": ["GLI3", "CALB2"],
   "IPA_BARHL2_UP": ["ATOH1", "CNTN2"],
   "IPA_SALL4_DN": ["SALL4"],
@@ -12606,15 +12782,23 @@
     "INHA",
     "BMPR2"
   ],
+  "IPA_FOXH1_DN": [],
+  "IPA_NPAS2_DN": [],
   "IPA_MEF2D_UP": ["TNNI1", "TGFB3", "TNNC1"],
   "IPA_ZBTB7A_DN": ["ADH5"],
   "IPA_PEG3_DN": ["HOXA10", "COMMD3-BMI1"],
   "IPA_RFX3_DN": ["FGF8"],
+  "IPA_BDP1_UP": [],
+  "IPA_CLOCK_DN": [],
   "IPA_SET_UP": ["IL15", "SERTAD1"],
+  "IPA_SNAPC1_DN": [],
   "IPA_HOXA3_UP": ["MAFB", "RARB"],
-  "IPA_NFE2L3_DN": ["NQO1"],
+  "IPA_IKZF3_UP": [],
+  "IPA_BATF_DN": [],
   "IPA_E2F8_UP": ["TBX2"],
+  "IPA_HES2_DN": [],
   "IPA_MXD1_UP": ["PAF1"],
+  "IPA_NFE2L3_DN": ["NQO1"],
   "IPA_GTF2I_DN": [
     "MIRLET7F1",
     "KRAS",
@@ -12695,6 +12879,8 @@
     "CD34",
     "CD93"
   ],
+  "IPA_NR1D2_UP": [],
+  "IPA_ZNF528_DN": [],
   "IPA_CHD4_UP": [
     "SPRY1",
     "PIK3CD",
@@ -12705,7 +12891,9 @@
     "KLF1"
   ],
   "IPA_HIST1H4E_UP": ["NPAT", "NEUROG1", "RUVBL1"],
+  "IPA_KLF8_UP": [],
   "IPA_PAX9_DN": ["PRRX2", "RIPPLY3"],
+  "IPA_IKZF4_DN": ["ACP5"],
   "IPA_RUNX2_UP": [
     "LUM",
     "CXCR4",
@@ -12821,8 +13009,8 @@
     "BMPR2",
     "XBP1"
   ],
-  "IPA_IKZF4_DN": ["ACP5"],
   "IPA_TBX19_DN": ["POMC"],
+  "IPA_ZNF354C_UP": [],
   "IPA_NOTCH1_DN": [
     "PROX1",
     "ITGB1",
@@ -12864,6 +13052,8 @@
     "MIR34B",
     "LOR"
   ],
+  "IPA_KMT2C_DN": [],
+  "IPA_ZNF100_DN": [],
   "IPA_IRX2_DN": ["POU4F1"],
   "IPA_PARP1_DN": [
     "AGT",
@@ -12886,6 +13076,7 @@
     "JUN",
     "IGF1"
   ],
+  "IPA_EP400_DN": [],
   "IPA_MYBL2_UP": [
     "EGFR",
     "ITGB1",
@@ -12913,6 +13104,7 @@
   "IPA_HES2_UP": ["HOXC8", "NKX2-3"],
   "IPA_KLF3_UP": ["KLF1", "IL17A"],
   "IPA_MEIS1_DN": ["PHF19"],
+  "IPA_SOX11_DN": [],
   "IPA_TBX21_DN": [
     "RORC",
     "PTGDR2",
@@ -12982,6 +13174,7 @@
     "CD2BP2",
     "RNASET2"
   ],
+  "IPA_PRDM8_UP": [],
   "IPA_NR1H2_UP": [
     "CYP7A1",
     "AQP1",
@@ -13058,7 +13251,9 @@
     "FLT3LG",
     "BMP4"
   ],
+  "IPA_ACTR3_DN": [],
   "IPA_TCF7L1_UP": ["ARNT2", "PYCR2"],
+  "IPA_HIST1H2BI_DN": [],
   "IPA_PPARA_DN": [
     "MIR10A",
     "FGB",
@@ -13362,6 +13557,9 @@
     "MYH6",
     "CBFB"
   ],
+  "IPA_GTF3C2_UP": [],
+  "IPA_MTF1_DN": [],
+  "IPA_KLF6_UP": ["PSG3", "KRT4", "PSG5"],
   "IPA_PRKCD_DN": [
     "CD70",
     "TNF",
@@ -13468,7 +13666,8 @@
     "ANGPTL3",
     "CPT1B"
   ],
-  "IPA_KLF6_UP": ["PSG3", "KRT4", "PSG5"],
+  "IPA_SIRT2_DN": [],
+  "IPA_SNAPC2_DN": [],
   "IPA_FOXM1_UP": [
     "CENPB",
     "ADAM17",
@@ -13920,7 +14119,9 @@
     "HIST1H1A"
   ],
   "IPA_HOXC4_DN": ["WNT3A", "COMMD3-BMI1"],
+  "IPA_IRF6_DN": [],
   "IPA_LMO3_DN": ["ZNF217"],
+  "IPA_XRCC5_UP": [],
   "IPA_CHD4_DN": ["POU3F1", "ID2", "HMOX1", "JUN", "NUPR1"],
   "IPA_SNAI2_UP": [
     "EGR2",
@@ -14023,6 +14224,7 @@
     "IGF1"
   ],
   "IPA_FLI1_DN": ["RARB", "KLF1", "INPP5D"],
+  "IPA_MAFG_DN": [],
   "IPA_PDX1_DN": [
     "CAMK2N1",
     "HNF1B",
@@ -14055,7 +14257,6 @@
     "CAT",
     "NQO1"
   ],
-  "IPA_WHSC1L1_UP": ["PIM2", "DCPS"],
   "IPA_GLI3_UP": ["HHIP", "SFRP1", "PVR", "KLK1", "MGEA5"],
   "IPA_MLXIPL_UP": [
     "DAK",
@@ -14070,6 +14271,7 @@
     "MID1IP1",
     "ALDH1A1"
   ],
+  "IPA_WHSC1L1_UP": ["PIM2", "DCPS"],
   "IPA_CEBPE_UP": [
     "CSF3R",
     "LECT2",
@@ -14136,6 +14338,7 @@
     "IL17A",
     "KAL1"
   ],
+  "IPA_SOX8_UP": [],
   "IPA_HDAC4_DN": [
     "MIR206",
     "MIR302C",
@@ -14183,6 +14386,7 @@
     "BMP4",
     "MYF5"
   ],
+  "IPA_ZNF217_UP": [],
   "IPA_CREM_DN": [
     "EGR4",
     "STAR",
@@ -14267,6 +14471,7 @@
     "MIR9-1"
   ],
   "IPA_PEG3_UP": ["ADORA2A"],
+  "IPA_KDM4B_DN": [],
   "IPA_MTA2_DN": ["GPT"],
   "IPA_POU1F1_UP": [
     "GHR",
@@ -14319,8 +14524,10 @@
     "BMP4",
     "GDF2"
   ],
+  "IPA_MED14_UP": [],
   "IPA_CTBP1_UP": ["CCNG2", "MMD"],
   "IPA_ISX_DN": ["BCMO1"],
+  "IPA_ZFP36L1_DN": [],
   "IPA_NANOG_UP": [
     "LPCAT4",
     "TNFRSF11A",
@@ -14396,6 +14603,7 @@
     "NSUN5P2",
     "DOT1L"
   ],
+  "IPA_ZNF33A_DN": ["FOS"],
   "IPA_SIRT1_DN": [
     "PARP2",
     "MGAT1",
@@ -14439,10 +14647,13 @@
     "MIR34B",
     "ROCK1"
   ],
-  "IPA_ZNF33A_DN": ["FOS"],
+  "IPA_RPA1_UP": [],
   "IPA_GZF1_UP": ["GDNF"],
-  "IPA_RXRB_UP": ["TSHB"],
+  "IPA_ENO1_DN": [],
   "IPA_BARX2_UP": ["ANLN", "FGF12", "NCAM1", "RBM15", "DMXL1"],
+  "IPA_FOXE3_DN": [],
+  "IPA_RXRB_UP": ["TSHB"],
+  "IPA_SALL3_DN": ["POU4F1", "ISL1"],
   "IPA_SREBF2_UP": [
     "REG1B",
     "INSIG1",
@@ -14503,8 +14714,6 @@
     "THRSP",
     "FDFT1"
   ],
-  "IPA_KMT2D_UP": ["ENO3", "NT5E", "CRIP2", "HOXC6", "TFF1", "MEOX1", "TNNC1"],
-  "IPA_SALL3_DN": ["POU4F1", "ISL1"],
   "IPA_YWHAZ_DN": [
     "ATF4",
     "MIR144",
@@ -14515,6 +14724,7 @@
     "XBP1"
   ],
   "IPA_MAFB_UP": ["MAFB", "GBX2", "ITGA2B", "EMR1", "NPHS2"],
+  "IPA_KMT2D_UP": ["ENO3", "NT5E", "CRIP2", "HOXC6", "TFF1", "MEOX1", "TNNC1"],
   "IPA_PGR_UP": [
     "AREG",
     "CDKN1C",
@@ -14645,6 +14855,7 @@
     "EZR",
     "GSTM3"
   ],
+  "IPA_SIX2_DN": [],
   "IPA_GLI1_UP": [
     "NIPAL2",
     "LZTS1",
@@ -15100,6 +15311,7 @@
     "IL13",
     "LOR"
   ],
+  "IPA_SIX4_DN": [],
   "IPA_NFE2L2_DN": [
     "CYP4A22",
     "LY6E",
@@ -15158,6 +15370,8 @@
   "IPA_SMARCE1_DN": ["CENPF"],
   "IPA_HEYL_DN": ["GATA4", "MYH11", "MYH6"],
   "IPA_ALYREF_UP": ["ZSCAN10"],
+  "IPA_BARHL2_DN": [],
+  "IPA_KLF11_UP": [],
   "IPA_NR2F1_DN": ["POU5F1", "RBP2", "ALDH2"],
   "IPA_NFYA_DN": ["CHEK2"],
   "IPA_HIST1H4F_UP": ["NPAT", "NEUROG1", "RUVBL1"],
@@ -15174,6 +15388,7 @@
     "FGF19",
     "SLC51B"
   ],
+  "IPA_MXI1_UP": [],
   "IPA_HOXB5_DN": ["COMMD3-BMI1"],
   "IPA_BATF_UP": ["ARHGAP21"],
   "IPA_ZNF536_UP": ["HOXC6"],
@@ -15189,6 +15404,8 @@
     "LTBR",
     "MS4A6A"
   ],
+  "IPA_KAT7_UP": [],
+  "IPA_ZSCAN10_DN": [],
   "IPA_HNF1A_DN": ["FOXA1", "UCP2", "G6PC", "LCAT", "LRP5", "HNF1A", "FUT8"],
   "IPA_HNF1B_UP": [
     "MAFB",
@@ -15422,6 +15639,7 @@
   ],
   "IPA_ETV6_UP": ["MMP3", "ALAS2"],
   "IPA_TP53BP1_DN": ["NUPR1"],
+  "IPA_BHLHE41_UP": [],
   "IPA_ZBTB17_UP": ["LRRN3"],
   "IPA_GATA2_UP": [
     "PDE9A",
@@ -15435,6 +15653,7 @@
     "RNASE2",
     "KLF1"
   ],
+  "IPA_PSMC6_DN": [],
   "IPA_HLTF_UP": ["HBB"],
   "IPA_MYF5_UP": [
     "SIX1",
@@ -15526,6 +15745,7 @@
     "RND2"
   ],
   "IPA_FOXE3_UP": ["MAB21L1"],
+  "IPA_TAF10_DN": [],
   "IPA_TBX3_UP": ["LBH", "GATA6"],
   "IPA_E2F6_DN": [
     "SMC1B",
@@ -15629,8 +15849,10 @@
     "LAPTM4B",
     "MIR212"
   ],
-  "IPA_TAF4B_UP": ["TAF4B"],
+  "IPA_KLF1_DN": [],
   "IPA_ATF5_UP": ["PLAG1", "MCL1", "ATF4", "SHH"],
+  "IPA_TAF4B_UP": ["TAF4B"],
+  "IPA_ARNT2_DN": [],
   "IPA_SMARCC2_UP": ["CCNK"],
   "IPA_HOXA11_UP": [
     "ITGA8",
@@ -15644,6 +15866,7 @@
     "GCM1",
     "SIX2"
   ],
+  "IPA_HSF2_DN": [],
   "IPA_CLOCK_UP": ["HMGCS2", "RBP2", "CLOCK", "MSGN1"],
   "IPA_HOXD11_UP": ["ITGA8", "SIX2", "FOXD1"],
   "IPA_DEAF1_DN": ["HTR1A", "HNRNPA2B1"],
@@ -15678,16 +15901,21 @@
   ],
   "IPA_SMARCA2_DN": ["ALPL", "TUFT1", "COL11A1", "MMP10", "DMP1", "MSX1"],
   "IPA_RFX4_UP": ["PPARA"],
-  "IPA_SETD2_DN": ["MIR210"],
+  "IPA_T_DN": [],
   "IPA_ZNF354C_DN": ["IFITM5"],
+  "IPA_SETD2_DN": ["MIR210"],
+  "IPA_DEK_UP": [],
   "IPA_ISX_UP": ["BCMO1"],
   "IPA_ZIC2_UP": ["BMP7", "GDF7", "FOXD1"],
+  "IPA_NKX2-2_DN": [],
   "IPA_OVOL1_UP": ["IRF6"],
   "IPA_FANCD2_UP": ["CCNK"],
   "IPA_NONO_UP": ["CDKN2A"],
+  "IPA_OXSR1_DN": [],
   "IPA_TCEB1_DN": ["HOXA10"],
   "IPA_ZFP42_DN": ["POU3F1", "POU5F1"],
   "IPA_HOXC9_UP": ["KMT2A"],
+  "IPA_IRX2_UP": [],
   "IPA_NOTCH1_UP": [
     "RORC",
     "NOTCH4",
@@ -15796,6 +16024,7 @@
     "FGF8",
     "INHA"
   ],
+  "IPA_CREB5_UP": [],
   "IPA_ELK1_DN": [
     "EGR1",
     "RBL2",
@@ -15983,6 +16212,8 @@
     "XBP1",
     "CHST12"
   ],
+  "IPA_HOXB6_UP": [],
+  "IPA_NR1D1_UP": [],
   "IPA_HIST2H4A_DN": ["NUPR1", "ARHGDIG"],
   "IPA_SMARCA4_UP": [
     "TGFB2",
@@ -16129,6 +16360,7 @@
     "LHCGR"
   ],
   "IPA_ATF6_DN": ["VIMP", "CYB5R4", "MTTP", "PLIN2", "DNAJC3"],
+  "IPA_NMI_DN": [],
   "IPA_EHF_UP": ["ELF3", "CDKN2A", "TNFRSF10B", "CDK1", "GLB1"],
   "IPA_RBMS1_DN": ["MIR383"],
   "IPA_CEBPA_UP": [
@@ -16553,6 +16785,7 @@
     "TRH",
     "TERT"
   ],
+  "IPA_TARBP2_DN": [],
   "IPA_FOSB_DN": [
     "CEBPA",
     "GDNF",
@@ -16580,6 +16813,7 @@
     "MIR212",
     "UBE2C"
   ],
+  "IPA_HINFP_DN": [],
   "IPA_PRRX1_DN": ["PAX9", "FGF8"],
   "IPA_NFKB1_UP": [
     "MIRLET7A1",
@@ -16724,6 +16958,7 @@
     "FANCD2"
   ],
   "IPA_OTX1_UP": ["SIX1", "TBX1"],
+  "IPA_HOXB7_UP": [],
   "IPA_KCNIP3_DN": ["CANT1", "AANAT"],
   "IPA_CEBPB_UP": [
     "CDC25C",
@@ -17030,6 +17265,7 @@
     "ADM",
     "MYH6"
   ],
+  "IPA_PPP1R13B_DN": [],
   "IPA_ETS2_UP": [
     "SYK",
     "HPGD",
@@ -17132,6 +17368,7 @@
     "XBP1",
     "ALDH1A1"
   ],
+  "IPA_KMT2A_DN": [],
   "IPA_PRDM5_DN": [
     "MIR135A1",
     "TBX2",
@@ -17145,6 +17382,9 @@
   ],
   "IPA_TFDP1_DN": ["MGEA5", "ANXA7"],
   "IPA_NEUROD6_UP": ["SATB2", "CNTN2"],
+  "IPA_NR6A1_UP": [],
+  "IPA_TCF20_DN": [],
+  "IPA_HIST1H1C_UP": [],
   "IPA_ATF1_UP": ["COL24A1"],
   "IPA_CCNT1_UP": ["MYCN", "RUVBL1", "MYC", "PPARA", "CAD", "CXCL12", "IL8"],
   "IPA_H2AFZ_DN": ["ADCYAP1"],
@@ -17170,7 +17410,9 @@
     "MITF",
     "CDX4"
   ],
+  "IPA_OTX1_DN": [],
   "IPA_POU3F1_DN": ["PMP22"],
+  "IPA_HOXA5_UP": [],
   "IPA_FGF3_UP": [
     "SOX7",
     "PLAU",
@@ -17203,6 +17445,7 @@
     "EOMES",
     "MIR18B"
   ],
+  "IPA_HOXA2_DN": [],
   "IPA_LRPPRC_UP": ["CD24"],
   "IPA_SMAD4_DN": [
     "EGFR",
@@ -17284,6 +17527,7 @@
     "BOK",
     "STX7"
   ],
+  "IPA_MLX_DN": [],
   "IPA_NFATC3_DN": ["NFATC1", "B3GAT1", "NPR1"],
   "IPA_KDM8_DN": ["DCSTAMP", "CTSK", "TNFSF11", "ACP5"],
   "IPA_PSMB1_UP": ["PSMB5", "REG1A"],
@@ -17355,6 +17599,7 @@
     "SLA",
     "HOXB4"
   ],
+  "IPA_ERCC6_DN": [],
   "IPA_SMAD3_DN": [
     "GATA3",
     "TF",
@@ -17398,6 +17643,7 @@
     "CPT1B"
   ],
   "IPA_TFAP2C_DN": ["ANTXR2", "MEIS1"],
+  "IPA_ZNF429_DN": [],
   "IPA_MYB_UP": [
     "AGT",
     "GATA3",
@@ -17564,6 +17810,7 @@
     "HGF",
     "GABPB1"
   ],
+  "IPA_HIST1H1D_UP": [],
   "IPA_NFATC2_UP": [
     "STIM2",
     "ADCYAP1",
@@ -17708,6 +17955,7 @@
     "TAGLN",
     "TCF3"
   ],
+  "IPA_MBD1_UP": [],
   "IPA_E2F7_DN": ["E2F3", "E2F2"],
   "IPA_HOXA1_DN": [
     "MIR10A",
@@ -17749,8 +17997,9 @@
   "IPA_JMJD6_UP": ["PIM2", "DCPS"],
   "IPA_ARX_DN": ["PAX4"],
   "IPA_XRCC6_UP": ["GH1", "CD28", "FGF2"],
-  "IPA_MEF2D_DN": ["CAST"],
+  "IPA_GTF2B_DN": [],
   "IPA_CTCFL_UP": ["GAL3ST1", "PRSS50"],
+  "IPA_MEF2D_DN": ["CAST"],
   "IPA_KMT2A_UP": [
     "HOXD3",
     "HOXA7",
@@ -17768,6 +18017,7 @@
   ],
   "IPA_NR1D1_DN": ["NR1D1"],
   "IPA_YWHAE_DN": ["TGFB1", "CCL5", "NANOG", "TNF", "IL6", "IFNB1"],
+  "IPA_ZNF43_DN": [],
   "IPA_SFPQ_DN": ["GAGE6"],
   "IPA_PBX2_UP": ["PKNOX1", "PF4"],
   "IPA_NR1H4_DN": [
@@ -17857,6 +18107,7 @@
   "IPA_CUX1_DN": ["CYP7A1", "SI", "CYBB", "LTF", "MIR3591", "GH1", "MIR122"],
   "IPA_MLLT3_UP": ["IL15", "IL7"],
   "IPA_SATB2_DN": ["MIR34C", "PERP", "MIR34A", "BCL11B", "BHLHE22", "MIR34B"],
+  "IPA_MNAT1_DN": [],
   "IPA_NR5A2_UP": [
     "CYP11A1",
     "CYP11B1",
@@ -18083,6 +18334,7 @@
     "LCN2",
     "GSTM3"
   ],
+  "IPA_TAZ_DN": [],
   "IPA_NRL_UP": [
     "PDE6A",
     "PDE6B",
@@ -18110,6 +18362,7 @@
     "CLEC3B",
     "NFIX"
   ],
+  "IPA_SOHLH1_DN": [],
   "IPA_SOHLH1_UP": ["FIGLA"],
   "IPA_PPARD_UP": [
     "ALDH9A1",
@@ -18300,6 +18553,7 @@
     "ID1",
     "MIR451A"
   ],
+  "IPA_BHLHE22_DN": [],
   "IPA_FOXA1_UP": [
     "SLC12A2",
     "SCGB1A1",
@@ -18315,6 +18569,7 @@
     "TFF3",
     "NDUFV3"
   ],
+  "IPA_HSF4_DN": [],
   "IPA_MAFG_UP": [
     "MAFG",
     "GLRA1",
@@ -18684,6 +18939,7 @@
     "ABCC6",
     "FOXP1"
   ],
+  "IPA_PAF1_DN": [],
   "IPA_TAL1_DN": [
     "LYL1",
     "FOXO3",
@@ -18745,6 +19001,7 @@
     "DIAPH3"
   ],
   "IPA_NR2F2_DN": ["ATP5A1", "NR2F2", "POU5F1", "STAR", "RBP2", "ALDH2"],
+  "IPA_TAF4B_DN": [],
   "IPA_GCM1_UP": ["ERVW-1"],
   "IPA_HOXA9_UP": [
     "NRGN",
@@ -18941,6 +19198,7 @@
     "MIR519C"
   ],
   "IPA_NEUROG3_DN": ["TNDM"],
+  "IPA_OVOL1_DN": [],
   "IPA_PITX1_DN": ["TFF1"],
   "IPA_MECOM_UP": ["CDKN1C", "ITGA2B", "PBX1", "GATA2", "BCL2L1", "ITGA6"],
   "IPA_HIF1AN_DN": ["CA9", "LDHA", "CUX1"],
@@ -18965,6 +19223,7 @@
     "MIR9-1"
   ],
   "IPA_DLX5_DN": ["SIX1"],
+  "IPA_MED28_UP": [],
   "IPA_T_UP": ["T"],
   "IPA_IRX4_DN": ["IRX2", "ACTA1", "MYH7"],
   "IPA_STAT6_UP": [
@@ -19068,14 +19327,19 @@
     "XBP1",
     "CISH"
   ],
+  "IPA_ATF1_DN": [],
   "IPA_OTX2_DN": ["ATOH1", "GBX2", "NKX2-2", "FGF8", "PHF19", "TDGF1"],
   "IPA_ETV6_DN": ["FLI1", "MMP3"],
   "IPA_GATA2_DN": ["PRG2", "DLL1"],
+  "IPA_DMTF1_DN": [],
+  "IPA_UHRF1_DN": [],
   "IPA_MESP1_UP": ["EXT1"],
   "IPA_NPAS2_UP": ["CLOCK"],
+  "IPA_NFYC_DN": [],
   "IPA_PRDM5_UP": ["PPP1R12B", "MIR299", "SNRNP48"],
   "IPA_LITAF_UP": ["CEBPA", "CCL8", "CCL5", "TNF", "IFNG", "IL1A", "IL10"],
   "IPA_GTF2IRD1_UP": ["MGEA5"],
+  "IPA_MSLN_DN": [],
   "IPA_HNF4A_DN": [
     "TENM4",
     "GRB14",
@@ -19129,6 +19393,7 @@
     "SRR"
   ],
   "IPA_MECOM_DN": ["MIR449C", "MIR449B", "MIR22", "MIR449A"],
+  "IPA_SP8_DN": [],
   "IPA_ZNF708_UP": ["MRPL30", "ENPP5"],
   "IPA_PAX8_UP": [
     "MCM3",
@@ -19156,8 +19421,12 @@
     "GATA1"
   ],
   "IPA_BHLHE22_UP": ["FEZF2"],
+  "IPA_WHSC1L1_DN": [],
   "IPA_HIST1H4L_UP": ["NPAT", "NEUROG1", "RUVBL1"],
   "IPA_BCL11A_DN": ["LIN28B"],
+  "IPA_MYBBP1A_DN": [],
+  "IPA_RUVBL1_DN": [],
+  "IPA_RBPJL_DN": [],
   "IPA_PLAG1_DN": ["AKAP8L", "RNASEH1"],
   "IPA_FOXF2_DN": ["EZH2", "WNT5A"],
   "IPA_HDAC1_DN": [
@@ -19200,9 +19469,11 @@
     "IL13"
   ],
   "IPA_FEZF2_UP": ["BCL11B"],
+  "IPA_SMARCC2_DN": [],
   "IPA_MSX2_DN": ["TAF4", "SIX3", "BMP3", "BMP4", "IFRD1"],
   "IPA_TCF12_DN": ["PAX5", "GJA1", "CBFA2T3", "ZNF652"],
   "IPA_H3F3B_DN": ["RNU7-1"],
+  "IPA_FEZF2_DN": [],
   "IPA_MNT_UP": ["MYC"],
   "IPA_CREM_UP": [
     "AGT",
@@ -19266,8 +19537,10 @@
     "CREM",
     "CREB3L4"
   ],
+  "IPA_NCL_DN": [],
   "IPA_SMARCE1_UP": ["HIST1H1T", "TFF1"],
   "IPA_HOXA11_DN": ["PHF1", "PDGFA"],
+  "IPA_SNAPC4_DN": [],
   "IPA_TP53_DN": [
     "MCM4",
     "AURKB",
@@ -20067,6 +20340,7 @@
   "IPA_ZFPM1_UP": ["GATA2", "ITGA2B"],
   "IPA_ASF1A_UP": ["POU5F1"],
   "IPA_SIM2_DN": ["MYOD1", "BNIP3", "MMP3", "ROBO3"],
+  "IPA_STRAP_DN": [],
   "IPA_TSHZ3_DN": ["MYOG"],
   "IPA_HOXB6_DN": ["COMMD3-BMI1"],
   "IPA_RXRA_DN": [
@@ -20101,6 +20375,7 @@
   ],
   "IPA_CHAF1A_UP": ["MED1"],
   "IPA_TLX3_UP": ["NEUROD1", "NEUROG1", "GALR1", "GRIA4"],
+  "IPA_HOXD9_DN": [],
   "IPA_MTF1_UP": ["MT2A", "SLC30A1"],
   "IPA_LEF1_UP": [
     "PIAS4",
@@ -20253,8 +20528,9 @@
     "SLIT2",
     "GABRA6"
   ],
-  "IPA_DOT1L_DN": ["AQP5"],
+  "IPA_RAX_DN": [],
   "IPA_TBX5_DN": ["POSTN", "TBX20", "FZD8", "COL1A2"],
+  "IPA_DOT1L_DN": ["AQP5"],
   "IPA_IRF7_DN": [
     "EIF4EBP2",
     "TRIM24",
@@ -20293,6 +20569,7 @@
     "PTP4A3",
     "RNF8"
   ],
+  "IPA_BARX2_DN": [],
   "IPA_HIF3A_UP": ["RARB", "FOXP2"],
   "IPA_HIST1H4C_DN": ["NUPR1", "ARHGDIG"],
   "IPA_RAD21_DN": ["MIR3591", "MIR122", "IGF2"],
@@ -20594,6 +20871,7 @@
     "SERTAD1"
   ],
   "IPA_MEOX2_UP": ["MEF2D", "CDKN1C", "NKX3-2", "TCF15", "CDKN2D"],
+  "IPA_KDM4C_DN": [],
   "IPA_IGFBP1_UP": [
     "HNF1B",
     "IGFBP1",
@@ -20606,6 +20884,7 @@
     "HOXA5",
     "KLF9"
   ],
+  "IPA_MAFF_DN": [],
   "IPA_PAX3_DN": [
     "POU3F1",
     "MSX2",
@@ -20618,6 +20897,7 @@
   ],
   "IPA_LBX1_DN": ["LBX1"],
   "IPA_TFAM_DN": ["LONP1", "SERTAD2", "HK1"],
+  "IPA_DMRT1_DN": [],
   "IPA_FLII_DN": ["TNF", "IL8"],
   "IPA_PSAP_DN": ["TFAP2A", "MIR210"],
   "IPA_PCGF2_DN": [
@@ -20635,6 +20915,7 @@
   "IPA_CCNT1_DN": ["MIR198", "PPARGC1A"],
   "IPA_ZEB2_DN": ["MIR205", "SFRP1", "ESRP2"],
   "IPA_HIST2H4B_DN": ["NUPR1", "ARHGDIG"],
+  "IPA_NCOA6_DN": [],
   "IPA_NFKB1_DN": [
     "BCL6",
     "MIRLET7A1",
@@ -20771,6 +21052,7 @@
     "DOT1L",
     "ANP32E"
   ],
+  "IPA_EMX1_DN": [],
   "IPA_DLX5_UP": ["GAD2", "MAGED1", "MYOC", "FGF8", "DMP1", "GDF2"],
   "IPA_TEAD2_DN": ["KRAS", "CLDN7"],
   "IPA_BHLHE41_DN": ["HK2", "STRA13", "CA9", "MIR210", "BHLHE40"],
@@ -20791,6 +21073,7 @@
   ],
   "IPA_RORA_DN": ["OSM"],
   "IPA_ZBTB43_DN": ["OSM"],
+  "IPA_ADAR_DN": [],
   "IPA_SMAD2_UP": [
     "THBS1",
     "NOS3",
@@ -20892,8 +21175,11 @@
     "CALD1",
     "TNNC1"
   ],
+  "IPA_EED_UP": [],
   "IPA_TRRAP_UP": ["MAD1L1", "MDM2"],
+  "IPA_ILF3_DN": [],
   "IPA_HIST4H4_UP": ["NPAT", "NEUROG1", "RUVBL1"],
+  "IPA_LRRFIP1_DN": [],
   "IPA_FOXO4_DN": [
     "HMGCR",
     "PDGFB",
@@ -21080,6 +21366,7 @@
     "CAV3",
     "CPT1B"
   ],
+  "IPA_NOBOX_DN": [],
   "IPA_MTA1_DN": [
     "SERPINB1",
     "MIR661",
@@ -21135,6 +21422,9 @@
     "BMP4",
     "GRM5"
   ],
+  "IPA_USF1_DN": [],
+  "IPA_CRTC1_DN": [],
+  "IPA_PSMB1_DN": [],
   "IPA_FOXO1_UP": [
     "RAB7A",
     "CDKN1C",
@@ -22378,6 +22668,7 @@
     "CCL4",
     "WNT5A"
   ],
+  "IPA_HBP1_DN": [],
   "IPA_TP73_DN": [
     "THBS1",
     "IER3",
@@ -22427,6 +22718,7 @@
     "SOX3"
   ],
   "IPA_SIM2_UP": ["CSN2", "SHH", "ANXA7"],
+  "IPA_TAF12_DN": [],
   "IPA_ELF2_UP": ["TIE1", "TEK"],
   "IPA_IRF5_UP": [
     "OASL",
@@ -22728,7 +23020,10 @@
     "AMH",
     "CHEK1"
   ],
+  "IPA_MYF6_DN": [],
   "IPA_SALL4_UP": ["POU5F1", "ABCA3"],
+  "IPA_OTP_DN": [],
+  "IPA_SET_DN": [],
   "IPA_EOMES_DN": ["POU5F1", "ZBTB7B", "IL21", "TXK"],
   "IPA_CBFB_UP": [
     "GPR83",
@@ -22856,6 +23151,7 @@
   ],
   "IPA_MSX1_DN": ["MYF6", "BMP4"],
   "IPA_PA2G4_DN": ["KLK3", "TMPRSS2", "SLC43A1"],
+  "IPA_LMO3_UP": [],
   "IPA_RARG_UP": [
     "HNF1B",
     "MAFB",
@@ -23803,5 +24099,7 @@
     "PIEZO2",
     "POU4F3"
   ],
-  "IPA_SALL3_UP": ["NEFM"]
+  "IPA_MESP2_DN": [],
+  "IPA_SALL3_UP": ["NEFM"],
+  "IPA_TBX1_DN": []
 }
